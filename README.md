@@ -1,2 +1,6 @@
-# WindowsTerminalConfig
-powershell and windows terminal configuration
+# WindowsToolConfig
+windows terminal configuration
+
+## current
+- powershell
+- windows ternimal
