@@ -1,4 +1,4 @@
-# WindowsToolConfig
+# WindowsToolsConfig
 windows terminal configuration
 
 ## current
