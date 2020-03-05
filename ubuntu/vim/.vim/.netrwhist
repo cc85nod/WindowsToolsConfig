@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/root/.vim'
+let g:netrw_dirhist_2='/root/ctf/edu-ctf/ret2libc'
+let g:netrw_dirhist_3='/root/ctf/edu-ctf'
+let g:netrw_dirhist_4='/root/ctf/edu-ctf/casino'
+let g:netrw_dirhist_5='/root/ctf/edu-ctf'
+let g:netrw_dirhist_6='/root/ctf/edu-ctf/rop'
+let g:netrw_dirhist_7='/root/ctf/edu-ctf/ret2libc'
